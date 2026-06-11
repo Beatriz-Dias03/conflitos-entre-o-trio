@@ -1,5 +1,3 @@
-# conflitos-entre-o-trio 
-
-nome = Dorival
-idade = 50
+sertghjklç~]
+[sdfghjklç~]
 
