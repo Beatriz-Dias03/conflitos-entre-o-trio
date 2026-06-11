@@ -1,5 +1,5 @@
 # conflitos-entre-o-trio 
 
-nome = Jurandir
+nome = Dorival
 idade = 50
 
